@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hello World! 👋
+My name is willyman sopian and i am a student with computer science study program
 
-<!--
-**willymansopian/willymansopian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,laravel,vscode,discord,git,github,ai,ps)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+HTML                     0 repos             █░░░░░░░░░░░░░░░░░░░░░░░░    00.00 % 
+CSS                      0 repos             █░░░░░░░░░░░░░░░░░░░░░░░░    00.00 % 
+JavaScript               0 repos             █░░░░░░░░░░░░░░░░░░░░░░░░    00.00 % 
+PHP                      0 repos             █░░░░░░░░░░░░░░░░░░░░░░░░    00.00 % 
+```
