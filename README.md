@@ -3,13 +3,10 @@
 </div>
 
 <h1 align="center"> Hello World! 👋 </h1>
-<!-- ## Hello World! 👋 -->
 
 <p align="center">I'm Willyman Sopian, a computer science student living in Indonesia.</p>
 
 <p align="center">Currently interested in learning programming languages.</p>
-
-<hr>
 
 <h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> &nbsp;&nbsp;Programming Languages: 
