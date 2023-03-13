@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <img src="https://github.com/willymansopian/willymansopian/blob/main/assets/img/planet.gif" alt="Dashboard">
 </div>
 
