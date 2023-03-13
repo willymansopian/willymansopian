@@ -16,15 +16,11 @@
     <img src="https://skillicons.dev/icons?i=php" alt="PHP Icon">&nbsp;&nbsp;
 </div>
 
-<hr>
-
 <h3>🌱&nbsp;&nbsp;Framework: </h3>
 <div>
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap Icon">&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel Icon">&nbsp;&nbsp;
 </div>
-
-<hr>
 
 <h3>⚒️&nbsp;&nbsp;Tools: </h3>
 <div>
