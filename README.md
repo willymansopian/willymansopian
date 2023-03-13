@@ -1,9 +1,15 @@
+<div>
+    <img src="../assets/img/planet.gif" alt="PHP Icon">
+</div>
+
 <h1 align="center"> Hello World! 👋 </h1>
 <!-- ## Hello World! 👋 -->
 
 <p align="center">I'm Willyman Sopian, a computer science student living in Indonesia.</p>
 
 <p align="center">Currently interested in learning programming languages.</p>
+
+<hr>
 
 <h3>🔥&nbsp;&nbsp;Programming Languages: </h3>
 <div>
