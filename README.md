@@ -7,11 +7,11 @@
 <p align="center"><b>I'm Willyman Sopian</b> - I'm a computer science student living in Indonesia. Currently interested in learning programming languages.</p>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,bootstrap,laravel" alt="Programming Icon">
+    <img src="https://skillicons.dev/icons?i=php,bootstrap,laravel,ps,ai" alt="Programming Icon">
 </div>
 
 <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />&nbsp;&nbsp;Tools: 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="15" height="15" />&nbsp;&nbsp;Tools: 
 </h3>
 <div>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vscode Icon">&nbsp;&nbsp;
