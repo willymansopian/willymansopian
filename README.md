@@ -1,5 +1,5 @@
 <div>
-    <img src="../assets/img/planet.gif" alt="PHP Icon">
+    <img src="https://github.com/willymansopian/willymansopian/blob/main/assets/img/planet.gif" alt="Dashboard">
 </div>
 
 <h1 align="center"> Hello World! 👋 </h1>
