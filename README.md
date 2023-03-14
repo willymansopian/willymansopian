@@ -2,7 +2,7 @@
     <img src="https://github.com/willymansopian/willymansopian/blob/main/assets/img/planet.gif" alt="Dashboard" width="100%" height="250">
 </div>
 
-<h1> Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="15" height="15" /> </h1>
+<h1> Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" /> </h1>
 
 <p><b>I'm Willyman Sopian</b> - I'm a computer science student living in Indonesia. Currently interested in learning programming languages.</p>
 
@@ -11,12 +11,9 @@
 </h3>
 
 <div align="center">
-    <div>
-        <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Icon">&nbsp;
-    </div>
-    <div>
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Icon">&nbsp;
-    </div>
+    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+    ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+    ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 </div>
 
 <hr>
