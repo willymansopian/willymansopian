@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://github.com/willymansopian/willymansopian/blob/main/assets/img/poke_wall.gif" alt="Poke Wall" width="100%" height="300">
+</div>
+
 <h1> Hello World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" /> </h1>
 
 <ul>
