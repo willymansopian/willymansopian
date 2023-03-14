@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/willymansopian/willymansopian/blob/main/assets/img/planet.gif" alt="Dashboard">
+    <img src="https://github.com/willymansopian/willymansopian/blob/main/assets/img/planet.gif" alt="Dashboard" width="300" height="120">
 </div>
 
 <h1 align="center"> Hello World! 👋 </h1>
