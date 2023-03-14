@@ -11,9 +11,13 @@
 </h3>
 
 <div align="center">
-    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-    ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-    ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 </div>
 
 <hr>
@@ -31,21 +35,21 @@
     <tbody>
         <tr>
             <td>
-                <div>
+                <div style="display:inline-block;">
                     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP Icon">&nbsp;
                 </div>
-                <div>
+                <div style="display:inline-block;">
                     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Icon">&nbsp;
                 </div>                    
             </td>
             <td>
-                <div>
+                <div style="display:inline-block;">
                     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Vscode Icon">&nbsp;
                 </div>
                 <div>
                     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git Icon">&nbsp;
                 </div>
-                <div>
+                <div style="display:inline-block;">
                     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github logoColor=white" alt="Github Icon">&nbsp;
                 </div>
             </td>
