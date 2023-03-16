@@ -42,7 +42,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr style="background-color: #495057;">
+        <tr style="background-color: Gainsboro">
             <td>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HMTL Icon">&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Icon">&nbsp;
