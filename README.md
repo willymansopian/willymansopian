@@ -1,3 +1,9 @@
+<style>
+    .striped{
+        background-color: #495057;
+    }
+</style>
+
 <div align="center">
     <img src="https://github.com/willymansopian/willymansopian/blob/main/assets/img/poke_wall.gif" alt="Poke Wall" width="100%" height="300">
 </div>
@@ -42,7 +48,7 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
+        <tr class="striped">
             <td>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HMTL Icon">&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Icon">&nbsp;
