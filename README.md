@@ -68,6 +68,4 @@
 
 <hr>
 
-<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willymansopian&langs_count=8)](https://github.com/willymansopian/github-readme-stats)
-</div>
