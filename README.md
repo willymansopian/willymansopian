@@ -68,6 +68,7 @@
 
 <hr>
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willymansopian" alt="Stat Icon">&nbsp;
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=willymansopian&show_icons=true" alt="Stat Card">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willymansopian&show_icons=true&langs_count=8" alt="Stat Languages Icon">&nbsp;
 </div>
