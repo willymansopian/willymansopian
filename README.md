@@ -69,5 +69,5 @@
 <hr>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willymansopian&langs_count=8" alt="Stat Icon">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willymansopian" alt="Stat Icon">&nbsp;
 </div>
